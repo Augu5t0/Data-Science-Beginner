@@ -25,7 +25,7 @@ Os dados utilizados neste estudo são oriundos da **Receita Federal do Brasil** 
 Os arquivos originais são bastante grandes e não podem ser versionados diretamente no GitHub.  
 Por isso, eles estão disponíveis no **Kaggle Datasets**:
 
-- [Kaggle Dataset]([LINK_DO_DATASET](https://www.kaggle.com/datasets/augustobragasilva/bases-data-science/data))
+- [Kaggle Dataset](https://www.kaggle.com/datasets/augustobragasilva/bases-data-science/data)
 
 
 
